@@ -2,6 +2,6 @@
     "type": "solo",
     "title": "test",
     "name": "test",
-    "channelId": "",
+    "channelId": "85434981",
     "layout": "bootstrap"
 }
